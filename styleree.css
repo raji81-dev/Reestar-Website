@@ -1,0 +1,106 @@
+.container {
+    padding: 10px;
+}
+
+.container-top {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.container-center {
+    text-align: center;
+    background-color: oldlace;
+}
+
+.container-center__one {
+    height: 350px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid darkgoldenrod;
+    margin-top: 20px;
+    vertical-align: top;
+
+}
+
+.container-center__two {
+    height: 350px;
+    width: 200px;
+    display: inline-block;
+    border:2px solid darkgoldenrod;
+    margin-top: 20px;
+    vertical-align: top;
+
+}
+
+.container-center__three {
+    height: 350px;
+    width: 200px;
+    display: inline-block;
+    border:2px solid darkgoldenrod;
+    margin-top: 20px;
+    vertical-align: top;
+
+}
+
+.container-center__four {
+    height: 350px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid darkgoldenrod;
+    margin-top: 20px;
+    vertical-align: top;
+
+}
+
+.container-center img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.container-center h2 {
+    font-size: 18px;
+}
+
+.container-center p {
+    color: black;
+}
+
+.container-center button {
+    color: white;
+    background-color: black;
+    width: 90px;
+    height: 30px;
+   
+}
+.container-bottom{
+    padding:5px;
+    background-color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+.container-bottom h1 {
+    color: white;
+}
+.container-bottom__formone,.container-bottom__formtwo,.container-bottom__formthree{
+    text-align: center;
+    color:white;
+}
+.container-bottom button{
+    color: black;
+    background-color: greenyellow;
+    height: 27px;
+    width: 430px;
+}
+h1:hover{
+    color: palevioletred;
+}
+p:hover{
+    color: palevioletred;
+}
+button:hover{
+    color: black;
+    background-color: palevioletred;
+}
